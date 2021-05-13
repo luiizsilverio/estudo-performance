@@ -1,5 +1,7 @@
 # Performance
-Estudo de performance em em React que utiliza memo, useMemo, lazy loading e debounce e uma fake API json-server.
+Estudo de performance em em React que utiliza memo, useMemo, lazy loading, react-virtualized e debounce.
+
+Utiliza uma API fake feita com json-server.
 
 ## Como Usar
 ```bash
